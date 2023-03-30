@@ -16,7 +16,7 @@
 
 ## 一、方向脉络梳理
 
-本次项目选用的框架是**Paddle+FPGA**，使用的编码为**C++、python、systemverilog**
+本次项目选用的框架是**Paddle+FPGA**，使用的编码为**C++、python、systemverilog**，后续再补充具体的任务细节
 
 主要任务有：
 
